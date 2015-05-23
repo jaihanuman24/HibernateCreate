@@ -10,6 +10,12 @@ import com.om.hib.dto.PersonDTO;
 
 public class Tester {
 	public static void main(String[] args){
+		System.out.println("Create hibernate Starts");
+		System.out.println("Create hibernate Starts");
+		System.out.println("Create hibernate Starts");
+		System.out.println("Create hibernate Starts");
+		
+		
 		PersonDTO personDTO=new PersonDTO();
 		personDTO.setName("om");
 		personDTO.setPlace("bangalore");
